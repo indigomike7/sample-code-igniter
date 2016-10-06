@@ -1,0 +1,33 @@
+body
+{
+	font-family:Verdana,Verdana,Verdana;
+	font-size:10px;
+}
+.title 
+{
+    background-color: #0000FF;
+    height: auto;
+    padding: 6px;
+    vertical-align: middle;
+	font-size:20px;
+	font-family:Arial,Arial,Arial;
+	text-align:left;
+	color:#ffffff;
+	font-weight:bold;
+}
+#result
+{
+/*	visibility:hidden;*/
+}
+.green
+{
+	color:#66cc00;
+}
+.red
+{
+	color:#ff0000;
+}
+.font14
+{
+	font-size:14px;
+}
